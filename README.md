@@ -1,7 +1,7 @@
 ## Screenshots:
 
-
-
+![Screenshot (530)](https://github.com/shubhams10/Blogs01/assets/83548764/3dccae1a-31a1-440e-9b4e-594b64710a56)
+![Screenshot (531)](https://github.com/shubhams10/Blogs01/assets/83548764/b3f17a7a-f509-43d0-b763-c59d67e036ac)
 
 ## Available Scripts
 In the project directory, you can run:
