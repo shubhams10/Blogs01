@@ -1,6 +1,8 @@
 ## Screenshots:
-![Screenshot1](<Screenshot (528).png>)
-![Screenshot2](<Screenshot (529).png>)
+
+![Screenshot (528)](https://github.com/shubhams10/Blogs01/assets/83548764/6d0f8b21-6d5f-42b5-bb8b-eaf23b748a05)
+![Screenshot (529)](https://github.com/shubhams10/Blogs01/assets/83548764/66f8663b-595e-4fcf-82cc-6efb2bf1f09d)
+
 
 ## Available Scripts
 In the project directory, you can run:
